@@ -15,8 +15,8 @@
 #include "FwBox.h"
 #include <Wire.h>
 
-#define DEVICE_TYPE 1
-#define FIRMWARE_VERSION "1.1.6"
+#define DEVICE_TYPE 26
+#define FIRMWARE_VERSION "1.0.0"
 
 void setup()
 {
